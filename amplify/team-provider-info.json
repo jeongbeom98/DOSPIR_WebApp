@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dospirwebapp-dev-185002-authRole",
+      "UnauthRoleArn": "arn:aws:iam::632991661966:role/amplify-dospirwebapp-dev-185002-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::632991661966:role/amplify-dospirwebapp-dev-185002-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-dospirwebapp-dev-185002-deployment",
+      "UnauthRoleName": "amplify-dospirwebapp-dev-185002-unauthRole",
+      "StackName": "amplify-dospirwebapp-dev-185002",
+      "StackId": "arn:aws:cloudformation:us-east-2:632991661966:stack/amplify-dospirwebapp-dev-185002/7ba22450-d69c-11ee-9ffd-067a6b70d6df",
+      "AmplifyAppId": "dgybd4eur8aqw"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dgybd4eur8aqw",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
