@@ -10,7 +10,7 @@ function App() {
   const iframeSources = {
     roundabouts: "https://uiowa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=5def30ac52b44721a389238ce1a9fc1c",
     highFrictionSurface: "https://uiowa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=7ac6753f55c248b49e8948df61fa7c53",
-    recycledPavement: "https://uiowa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=47f0ea2af1b04d238a1639af73a93a4b",
+    recycledPavement: "https://uiowa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=24c0ca3083244f9f9c8b3339a74cbaeb",
     ottaseal: "https://uiowa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=e09f16d1a5c84478ba867d7019397e34",
     uhpc: "https://uiowa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=58d84a2253474c85b0d68ad34eb5f4e3",
   };
